@@ -282,6 +282,10 @@ textarea{
     flex-direction: column;
 }
 
+.info_perfil{
+    text-align: center;
+}
+
 /* TABLAS */
 table{
     border-collapse: collapse;
