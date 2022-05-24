@@ -1,0 +1,20 @@
+USUARIOS | CONTRASEÑAS
+----------------------
+ADMIN:
+admin | admin
+
+BASICOS:
+ana | ana
+manuel | manuel
+raul | raul
+
+ADIESTRADORES:
+rodolfo | rodolfo
+maria | maria
+agustin | agustin
+
+EMPRESAS:
+11111111A | 1
+22222222B | 2
+33333333C | 3
+44444444D | 4
